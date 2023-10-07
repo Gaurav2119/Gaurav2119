@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav2119&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav2119" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://linktr.ee/gaurav2119](https://linktr.ee/gaurav2119)
 
 - 📫 How to reach me **gauravgupta2001nov@gmail.com**
