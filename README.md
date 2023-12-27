@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gauravgupta2001nov@gmail.com**
 
-- 📄 Know about my experiences [resumeLink](resumeLink)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/18sg5ZuKNOumEjx_vWn61fePmK6AOLWYS](resumeLink)
 
 - ⚡ Fun fact **Chill Yet Persistent Achiever😜**
 
